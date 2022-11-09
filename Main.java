@@ -3,10 +3,9 @@
  Douglas Camero
  CSc 130
  Professor Cook
- Assignment 2
+ Assignment 3
 
- Implement Radix sort using LinkedList and Node classes
- from last assignments
+Binary Search Tree
 
 ========================================================================= */
 import java.io.File;

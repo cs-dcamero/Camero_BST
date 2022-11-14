@@ -5,10 +5,10 @@ public class Entry
 
     Entry()
     {
-        key = -1; // what is used to sort
+        key = 0; // what is used to sort
         value = null; // what is stored at the key
     }
-
+    
     Entry(Entry data)
     {
         key = data.key;
